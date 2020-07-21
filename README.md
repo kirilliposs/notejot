@@ -9,12 +9,6 @@
 
 ![Screenshot](data/shot.png)
 
-## Donations
-
-Would you like to support the development of this app to new heights? Then:
-
-[Be my backer on Patreon](https://www.patreon.com/lainsce)
-
 ## Dependencies
 
 Please make sure you have these dependencies first before building.
